@@ -15,8 +15,8 @@ const AUDITOR = {
   email: "ogalindo@onlinenexusmarketing.com",
   calendly: "https://calendly.com/onlinenexusmarketing/strategy-meeting",
   slogan: "Hand it off. It's handled.",
-  headshot: "/headshot.jpg",
-  logo: "/logo.png",
+  headshot: "https://images.ctfassets.net/jn2q4lg00k6r/Pvhk8qIvRvsXomjUvMPGK/1a0a3da603bd0eb9e03e79a592738af2/DSC07006_mh1pnc.jpg",
+  logo: "https://res.cloudinary.com/dhs9d8tou/image/upload/v1769829242/onmlogo_bhcbxa.png",
 };
 
 const OVERALL_SCORE = 59;
